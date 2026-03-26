@@ -40,7 +40,7 @@ OUTPUT:
 
 2. LOAD REGULATION:
 
-<img width="1507" height="757" alt="image" src="https://github.com/user-attachments/assets/4d887780-20e7-4ef5-9c92-8a3b9b0d420b" />
+<img width="953" height="384" alt="image" src="https://github.com/user-attachments/assets/c3d07c86-2369-4974-adeb-4583e75af19b" />
 
 
 PRECAUTIONS:
